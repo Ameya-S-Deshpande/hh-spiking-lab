@@ -1,0 +1,50 @@
+{
+  "control_peak_mV": 40.2631416570677,
+  "ttx_peak_mV_I10": -56.259453863617054,
+  "ttx_peak_mV_I50": -31.866165115311578,
+  "ttx_spikes_I10": 0,
+  "tea_V_at_30ms_mV": 8.185555500922845,
+  "tea_spikes": 1,
+  "half_gNa_peak_mV": 26.889234346149888,
+  "half_gNa_spikes": 1,
+  "half_gK_peak_mV": 43.322651517903154,
+  "half_gK_spikes": 4,
+  "temperature": [
+    {
+      "temp_C": 6.3,
+      "phi": 1.0,
+      "half_width_ms": 1.4718329891202337,
+      "peak_mV": 40.2631416570677,
+      "n_spikes_I10": 3,
+      "rheobase_uA_cm2": 2.2412109375,
+      "rate_hz_I15": 80.0
+    },
+    {
+      "temp_C": 12.0,
+      "phi": 1.870506041228622,
+      "half_width_ms": 0.794703992095573,
+      "peak_mV": 36.50775277004174,
+      "n_spikes_I10": 5,
+      "rheobase_uA_cm2": 3.30322265625,
+      "rate_hz_I15": 132.5
+    },
+    {
+      "temp_C": 18.5,
+      "phi": 3.8202161018185845,
+      "half_width_ms": 0.41835670660231106,
+      "peak_mV": 26.13852596927054,
+      "n_spikes_I10": 8,
+      "rheobase_uA_cm2": 5.50048828125,
+      "rate_hz_I15": 227.5
+    },
+    {
+      "temp_C": 25.0,
+      "phi": 7.802194028204279,
+      "half_width_ms": null,
+      "peak_mV": -17.713458133103888,
+      "n_spikes_I10": 0,
+      "rheobase_uA_cm2": 11.59423828125,
+      "rate_hz_I15": null
+    }
+  ]
+}

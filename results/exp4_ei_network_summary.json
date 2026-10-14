@@ -1,0 +1,46 @@
+{
+  "t_max_ms": 500.0,
+  "exc_rate_hz": 49.6875,
+  "inh_rate_hz": 60.0,
+  "chi": 0.5626389135889469,
+  "peak_frequency_hz": 60.0,
+  "n_spikes": 1313,
+  "runtime_s": 14.912146007999922,
+  "sweep": [
+    {
+      "w_ie": 0.0,
+      "exc_rate_hz": 62.5,
+      "inh_rate_hz": 62.5,
+      "chi": 0.6943425144318025,
+      "peak_frequency_hz": 62.5
+    },
+    {
+      "w_ie": 0.1,
+      "exc_rate_hz": 57.6875,
+      "inh_rate_hz": 62.5,
+      "chi": 0.6054630350058662,
+      "peak_frequency_hz": 122.5
+    },
+    {
+      "w_ie": 0.2,
+      "exc_rate_hz": 49.6875,
+      "inh_rate_hz": 60.0,
+      "chi": 0.5626389135889469,
+      "peak_frequency_hz": 60.0
+    },
+    {
+      "w_ie": 0.35,
+      "exc_rate_hz": 40.3125,
+      "inh_rate_hz": 57.0,
+      "chi": 0.4616127443562255,
+      "peak_frequency_hz": 60.0
+    },
+    {
+      "w_ie": 0.5,
+      "exc_rate_hz": 31.4375,
+      "inh_rate_hz": 53.5,
+      "chi": 0.43330740391102424,
+      "peak_frequency_hz": 57.5
+    }
+  ]
+}
